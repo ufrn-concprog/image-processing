@@ -26,7 +26,11 @@ Este trabalho consiste essencialmente em implementar um programa que realiza o p
 
 O programa poderá ser implementado utilizando facilidades providas pelas linguagens de programação C++, Java **ou** Python, à escolha. Outra linguagem de programação diferente dessas três poderá ser utilizada contanto a proposta seja previamente validada com o docente. O desenvolvimento da solução deve de antemão visar pela busca de desenvolvimento de software de qualidade, isto é, funcionando correta e eficientemente, exaustivamente testado, bem documentado e com tratamento adequado de eventuais exceções.
 
-Os seguintes repositórios poderão ser utilizados como ponto de partida para a implementação do programa:
+Os seguintes repositórios, todos disponíveis publicamente no GitHub, poderão ser utilizados como ponto de partida para a implementação do programa:
+
+- [Versão em Java](https://github.com/evertonrsc/java-imageprocessing)
+- [Versão em C++](https://github.com/evertonrsc/cpp-imageprocessing)
+- [Versão em Python](https://github.com/evertonrsc/py-imageprocessing)
 
 Cada um desses programas realizar o processamento de um conjunto de imagens para transformá-las para escala de cinza de forma **sequencial**, uma após uma. Dessa forma, a tarefa deste trabalho consistiria basicamente em modificar essas implementações para produzir uma versão concorrente utilizando *threads*.
 
