@@ -1,6 +1,6 @@
 # Trabalho Prático: Processamento Concorrente de Imagens
 
-<sub>Última atualização: 24/09/2025</sub>
+<sub>Última atualização: 26/09/2025</sub>
 
 ## Sumário
 
@@ -69,7 +69,7 @@ O sistema de controle de versões [Git](https://git-scm.com) e o serviço de hos
 
 No momento de criação de uma equipe, o GitHub Classroom cria um repositório Git privado acessível unicamente pelos integrantes da equipe e pelo docente, sob a organização [`ufrn-concprog`](https://github.com/ufrn-concprog). A fim de garantir a boa manutenção do repositório, deve-se ainda configurar corretamente o arquivo `.gitignore` para desconsiderar arquivos que não devam ser versionados, a exemplo dos arquivos executáveis gerado a partir da compilação do código fonte. Também não é necessário versionar os arquivos de saída resultantes do processo de ordenação.
 
-A entrega deste trabalho deverá ser realizada até as **23:59 do dia 5 de outubro de 2025** no respectivo repositório Git da equipe. O relatório elaborado, preferencialmente em formato *Adobe Portable Format* (PDF), deverá ser enviado através da opção *Tarefas* da Turma Virtual do SIGAA, juntamente com, no campo *Comentários*, o endereço do repositório. **Um único membro da equipe deve realizar esse envio** e não serão aceitos envios por outros meios ou repositórios que não sejam os descritos nesta especificação.
+A entrega deste trabalho deverá ser realizada até as **23:59 do dia 7 de outubro de 2025** no respectivo repositório Git da equipe. O relatório elaborado, preferencialmente em formato *Adobe Portable Format* (PDF), deverá ser enviado através da opção *Tarefas* da Turma Virtual do SIGAA, juntamente com, no campo *Comentários*, o endereço do repositório. **Um único membro da equipe deve realizar esse envio** e não serão aceitos envios por outros meios ou repositórios que não sejam os descritos nesta especificação.
 
 ## Avaliação
 
